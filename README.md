@@ -20,8 +20,7 @@ Um die Daten von 3 verschiedenen Seiten zu unterscheiden, habe ich ein neues Att
 
 
 
-![2](https://user-images.githubusercontent.com/47888237/106391863-aca8a880-63ef-11eb-81b6-5b2ade5ec9f0.PNG)
-![3](https://user-images.githubusercontent.com/47888237/106391864-afa39900-63ef-11eb-8593-9de0a0fb0fe8.PNG)
-![4](https://user-images.githubusercontent.com/47888237/106391865-b03c2f80-63ef-11eb-8d21-6749897b5b1d.PNG)
-![5](https://user-images.githubusercontent.com/47888237/106391867-b0d4c600-63ef-11eb-8419-bcc6b8122b69.PNG)
-![6](https://user-images.githubusercontent.com/47888237/106391869-b205f300-63ef-11eb-9156-525222c1f6e7.PNG)
+![2](https://user-images.githubusercontent.com/47888237/106392171-fba30d80-63f0-11eb-8af0-7840de394bb3.PNG)
+![3](https://user-images.githubusercontent.com/47888237/106392172-fc3ba400-63f0-11eb-82f8-b2db4080d90c.PNG)
+![4](https://user-images.githubusercontent.com/47888237/106392173-fcd43a80-63f0-11eb-9a22-265326c66ac0.PNG)
+
